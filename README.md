@@ -19,11 +19,6 @@
 root@vehant:~$ whoami --verbose
 ```
 
-I take AI video-analytics platforms from "it runs on my machine" to production
-across fleets of GPU boxes — then I benchmark every model/hardware pairing
-until I know exactly where the ceiling is. 2 years cutting release cycles from
-days to an hour, and turning DeepStream throughput numbers into decisions.
-
 <br/>
 
 ![](https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-0B0F14?style=flat-square&labelColor=0B0F14&color=3DDC97)
@@ -38,11 +33,6 @@ GPU benchmarking  (DeepStream, 5 GPU types) ▰▰▰▰▰▰▰▰▱▱   A50
 Monitoring stack  (Prometheus/Grafana)      ▰▰▰▰▰▰▰▱▱▱   real-time, live in prod
 MLOps pipeline    (ClearML + DVC)           ▰▰▰▰▰▱▱▱▱▱   in progress
 ```
-
-- Migrated CI/CD from Jenkins to GitLab CI — single source of truth, push-triggered, tamper-proof.
-- Benchmarked YOLO / VTDet inference on NVIDIA DeepStream (DS7–DS9) across 5 GPU classes to find the most resource-efficient model-hardware pairing.
-- Built the monitoring/observability layer (Prometheus, Grafana, Netdata) infra now runs on.
-- Use Claude Code with subagents and custom skills to parallelize Python/Shell automation.
 
 <br/>
 
