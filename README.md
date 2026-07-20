@@ -32,8 +32,6 @@ MLOps pipeline    (ClearML + DVC)           ▰▰▰▰▰▱▱▱▱▱   in 
 
 <br/>
 
-![](https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-0B0F14?style=flat-square&labelColor=0B0F14&color=3DDC97)
-
 ### <code>[02]</code> Stack
 
 <table>
