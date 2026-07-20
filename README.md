@@ -16,12 +16,10 @@
 <br/>
 
 ```
-root@vehant:~$ whoami --verbose
+root@Ashish:~$ whoami --verbose
 ```
 
 <br/>
-
-![](https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-0B0F14?style=flat-square&labelColor=0B0F14&color=3DDC97)
 
 ### <code>[01]</code> Currently shipping — Vehant Technologies · Assistant System Analyst, IT (L2)
 <sub>Sep 2024 — present</sub>
