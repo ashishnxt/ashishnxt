@@ -68,19 +68,3 @@ Monitoring   Grafana · Prometheus · Netdata · Wazuh
 </table>
 
 <br/>
-
-![](https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-0B0F14?style=flat-square&labelColor=0B0F14&color=3DDC97)
-
-### <code>[03]</code> Signal
-
-- 🖥️&nbsp; Runs a hand-tuned Ubuntu/GNOME desktop — dual-router homelab, custom Ansible fleet configs.
-- 📦&nbsp; Ships Python tools to PyPI — TUI dashboards, health engines, live diagnostics.
-- 🎓&nbsp; B.Tech CS, R.D. Engineering College (2019–2023) · RHCSA (2025–2028)
-
-<br/>
-
-![](https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-0B0F14?style=flat-square&labelColor=0B0F14&color=3DDC97)
-
-<div align="center">
-<sub><code>uptime: 26y</code> &nbsp;·&nbsp; <code>host: Vehant Technologies</code> &nbsp;·&nbsp; <code>status: benchmarking something right now</code></sub>
-</div>
