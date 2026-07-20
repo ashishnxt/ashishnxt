@@ -4,8 +4,6 @@
 
 <br/>
 
-<code>▰▰▰▰▰▰▰▰▰▰</code>&nbsp; **benchmarked model → hardware fit, before it ships**
-
 <a href="mailto:ashishaxm11@gmail.com"><img src="https://img.shields.io/badge/-ashishaxm11%40gmail.com-0B0F14?style=for-the-badge&logo=gmail&logoColor=3DDC97" /></a>
 <a href="https://github.com/ashishnxt"><img src="https://img.shields.io/badge/-ashishnxt-0B0F14?style=for-the-badge&logo=github&logoColor=E8EDF2" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Ashish%20Sharma-0B0F14?style=for-the-badge&logo=linkedin&logoColor=5B8DEF" /></a>
