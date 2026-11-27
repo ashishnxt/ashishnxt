@@ -1,12 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111827,100:0d1117&height=150&section=header&text=ASHISH%20SHARMA&fontColor=e6edf3&fontSize=54&fontAlignY=45&desc=DevOps%20Engineer%20%C2%B7%20CI%2FCD%20%C2%B7%20Cloud%20%C2%B7%20GPU%20Infrastructure&descColor=58a6ff&descSize=15&descAlignY=72" width="100%" alt="Ashish Sharma - DevOps Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111827,100:0d1117&height=110&section=header&text=ASHISH%20SHARMA&fontColor=e6edf3&fontSize=44&fontAlignY=38&desc=DevOps%20Engineer%20%C2%B7%20CI%2FCD%20%C2%B7%20Cloud%20%C2%B7%20GPU%20Infrastructure&descColor=58a6ff&descSize=14&descAlignY=72" width="100%" alt="Ashish Sharma - DevOps Engineer" />
 
 <div align="center">
 
-### I cut a 6-hour release cycle down to 60 minutes.
-*Then I kept going: GPU fleets, self-healing deployments and 99.9% available databases.*
+### I cut a 6-hour release cycle down to 60 minutes, then kept going.
 
-<a href="mailto:ashishsharma200212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="44" alt="Email" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ashish-sharma-2oo2"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="44" alt="LinkedIn" /></a>
+<a href="mailto:ashishsharma200212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="36" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ashish-sharma-2oo2"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="36" alt="LinkedIn" /></a>
+
+<h3>⚙️ How I Ship</h3>
+
+| 🔨 BUILD | | 📦 DEPLOY | | ☁️ RUN | | 📡 MONITOR |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins&theme=dark" height="42" /> | ➜ | <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform&theme=dark" height="42" /> | ➜ | <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,redhat&theme=dark" height="42" /> | ➜ | <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx&theme=dark" height="42" /> |
+| Webhook-triggered<br>Jenkins pipelines | | GPU containers,<br>40% faster rollouts | | AI vision models<br>on 50+ servers | | Metrics that<br>right-size GPUs |
+
+| | | | |
+|:---:|:---|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" /> | **AWS Certified**<br>Solutions Architect – Associate | <img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="44" /> | **Red Hat Certified**<br>System Administrator (RHCSA) |
 
 </div>
 
@@ -17,31 +27,6 @@
 | <h3>6h → 60m</h3> | <h3>50+</h3> | <h3>30+</h3> | <h3>&lt;30s</h3> | <h3>99.9%</h3> |
 |:---:|:---:|:---:|:---:|:---:|
 | release cycle | GPU servers running AI models | servers deployed with Docker | database failover | database availability |
-
-</div>
-
-<br>
-
-## 🏅 Certified
-
-<div align="center">
-
-| | | | |
-|:---:|:---|:---:|:---|
-| <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="56" /> | **AWS Certified**<br>Solutions Architect – Associate | <img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="56" /> | **Red Hat Certified**<br>System Administrator (RHCSA) |
-
-</div>
-
-<br>
-
-## ⚙️ How I Ship
-
-<div align="center">
-
-| 🔨 BUILD | | 📦 DEPLOY | | ☁️ RUN | | 📡 MONITOR |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins&theme=dark" height="46" /> | ➜ | <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform&theme=dark" height="46" /> | ➜ | <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,redhat&theme=dark" height="46" /> | ➜ | <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx&theme=dark" height="46" /> |
-| Webhook-triggered<br>Jenkins pipelines | | GPU containers,<br>40% faster rollouts | | AI vision models<br>on 50+ servers | | Metrics that<br>right-size GPUs |
 
 </div>
 
