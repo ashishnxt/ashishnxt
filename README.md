@@ -11,6 +11,18 @@
 
 <br>
 
+## 🏅 Certified
+
+<div align="center">
+
+| | | | |
+|:---:|:---|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="56" /> | **AWS Certified**<br>Solutions Architect – Associate | <img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="56" /> | **Red Hat Certified**<br>System Administrator (RHCSA) |
+
+</div>
+
+<br>
+
 ## ⚙️ The Pipeline
 
 <div align="center">
@@ -53,19 +65,6 @@ $ ./pipeline --run ashish
 
 <br>
 
-## 🏅 Certifications
-
-<div align="center">
-
-| | | |
-|:---:|:---|:---|
-| <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="56" /> | **AWS Certified Solutions Architect – Associate**<br>SAA-C03 | ![valid](https://img.shields.io/badge/VALID-2026–2029-3fb950?style=flat-square&labelColor=161b22) |
-| <img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="56" /> | **Red Hat Certified System Administrator**<br>RHCSA | ![valid](https://img.shields.io/badge/VALID-2025–2028-3fb950?style=flat-square&labelColor=161b22) |
-
-</div>
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -76,14 +75,5 @@ $ ./pipeline --run ashish
 </div>
 
 <br>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/ashishsharma200212@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ashishsharma200212@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ashish-sharma-2oo2)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:111827&height=60&section=footer" width="100%" alt="" />
