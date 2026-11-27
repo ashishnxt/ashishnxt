@@ -9,16 +9,25 @@
 
 </div>
 
+<!-- Section 1: impact numbers -->
 <table width="100%">
+  <tr><td colspan="5"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:3fb950&height=3" width="1000" height="3" alt="" /></td></tr>
   <tr align="center">
-    <td colspan="2"><h3>6h → 60m</h3>release cycle</td>
-    <td colspan="2"><h3>30+</h3>servers deployed with Docker</td>
-    <td colspan="2"><h3>50+</h3>GPU servers running AI models</td>
-    <td colspan="1"><h3>99.9%</h3>database availability</td>
+    <td width="20%"><h3>6h → 60m</h3>release cycle</td>
+    <td width="20%"><h3>50+</h3>GPU servers running AI models</td>
+    <td width="20%"><h3>30+</h3>servers deployed with Docker</td>
+    <td width="20%"><h3>&lt;30s</h3>database failover</td>
+    <td width="20%"><h3>99.9%</h3>database availability</td>
   </tr>
-  <tr align="center">
-    <th colspan="7">⚙️ How I Ship</th>
-  </tr>
+</table>
+
+<br>
+
+<!-- Section 2: how I ship -->
+<h3 align="center">⚙️ How I Ship</h3>
+
+<table width="100%">
+  <tr><td colspan="7"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:3fb950&height=3" width="1000" height="3" alt="" /></td></tr>
   <tr align="center">
     <th width="22%">🔨 BUILD</th><th width="4%"></th>
     <th width="22%">📦 DEPLOY</th><th width="4%"></th>
@@ -37,11 +46,20 @@
     <td>AI vision models<br>on 50+ servers</td><td></td>
     <td>Metrics that<br>right-size GPUs</td>
   </tr>
+</table>
+
+<br>
+
+<!-- Section 3: certifications -->
+<table width="100%">
+  <tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:3fb950&height=3" width="1000" height="3" alt="" /></td></tr>
   <tr align="center">
-    <td colspan="3"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" /><br><b>AWS Certified</b><br>Solutions Architect – Associate</td>
-    <td colspan="4"><img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="44" /><br><b>Red Hat Certified</b><br>System Administrator (RHCSA)</td>
+    <td width="50%"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" /><br><b>AWS Certified</b><br>Solutions Architect – Associate</td>
+    <td width="50%"><img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="44" /><br><b>Red Hat Certified</b><br>System Administrator (RHCSA)</td>
   </tr>
 </table>
+
+<br>
 
 <h3 align="center">🧾 Pipeline Run</h3>
 
