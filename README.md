@@ -11,13 +11,12 @@
 
 <!-- Section 1: impact numbers -->
 <table width="100%">
-  <tr><td colspan="5"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:3fb950&height=3" width="1000" height="3" alt="" /></td></tr>
   <tr align="center">
-    <td width="20%"><h3>6h → 60m</h3>release cycle</td>
-    <td width="20%"><h3>50+</h3>GPU servers running AI models</td>
-    <td width="20%"><h3>30+</h3>servers deployed with Docker</td>
-    <td width="20%"><h3>&lt;30s</h3>database failover</td>
-    <td width="20%"><h3>99.9%</h3>database availability</td>
+    <td width="200"><h3>6h → 60m</h3>release cycle</td>
+    <td width="200"><h3>50+</h3>GPU servers running AI models</td>
+    <td width="200"><h3>30+</h3>servers deployed with Docker</td>
+    <td width="200"><h3>&lt;30s</h3>database failover</td>
+    <td width="200"><h3>99.9%</h3>database availability</td>
   </tr>
 </table>
 
@@ -27,12 +26,11 @@
 <h3 align="center">⚙️ How I Ship</h3>
 
 <table width="100%">
-  <tr><td colspan="7"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:3fb950&height=3" width="1000" height="3" alt="" /></td></tr>
   <tr align="center">
-    <th width="22%">🔨 BUILD</th><th width="4%"></th>
-    <th width="22%">📦 DEPLOY</th><th width="4%"></th>
-    <th width="22%">☁️ RUN</th><th width="4%"></th>
-    <th width="22%">📡 MONITOR</th>
+    <th width="230">🔨 BUILD</th><th width="27"></th>
+    <th width="230">📦 DEPLOY</th><th width="27"></th>
+    <th width="230">☁️ RUN</th><th width="27"></th>
+    <th width="230">📡 MONITOR</th>
   </tr>
   <tr align="center">
     <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins&theme=dark" height="42" /></td><td>➜</td>
@@ -52,10 +50,9 @@
 
 <!-- Section 3: certifications -->
 <table width="100%">
-  <tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:3fb950&height=3" width="1000" height="3" alt="" /></td></tr>
   <tr align="center">
-    <td width="50%"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" /><br><b>AWS Certified</b><br>Solutions Architect – Associate</td>
-    <td width="50%"><img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="44" /><br><b>Red Hat Certified</b><br>System Administrator (RHCSA)</td>
+    <td width="500"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" /><br><b>AWS Certified</b><br>Solutions Architect – Associate</td>
+    <td width="500"><img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="44" /><br><b>Red Hat Certified</b><br>System Administrator (RHCSA)</td>
   </tr>
 </table>
 
