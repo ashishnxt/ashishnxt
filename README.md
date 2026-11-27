@@ -7,35 +7,49 @@
 <a href="mailto:ashishsharma200212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="36" alt="Email" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/ashish-sharma-2oo2"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="36" alt="LinkedIn" /></a>
 
-<h3>⚙️ How I Ship</h3>
-
-| 🔨 BUILD | | 📦 DEPLOY | | ☁️ RUN | | 📡 MONITOR |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins&theme=dark" height="42" /> | ➜ | <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform&theme=dark" height="42" /> | ➜ | <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,redhat&theme=dark" height="42" /> | ➜ | <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx&theme=dark" height="42" /> |
-| Webhook-triggered<br>Jenkins pipelines | | GPU containers,<br>40% faster rollouts | | AI vision models<br>on 50+ servers | | Metrics that<br>right-size GPUs |
-
-| | | | |
-|:---:|:---|:---:|:---|
-| <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" /> | **AWS Certified**<br>Solutions Architect – Associate | <img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="44" /> | **Red Hat Certified**<br>System Administrator (RHCSA) |
-
 </div>
 
-<br>
+<table width="100%">
+  <tr align="center">
+    <td width="20%"><h3>6h → 60m</h3>release cycle</td>
+    <td width="20%"><h3>50+</h3>GPU servers running AI models</td>
+    <td width="20%"><h3>30+</h3>servers deployed with Docker</td>
+    <td width="20%"><h3>&lt;30s</h3>database failover</td>
+    <td width="20%"><h3>99.9%</h3>database availability</td>
+  </tr>
+</table>
 
-<div align="center">
+<h3 align="center">⚙️ How I Ship</h3>
 
-| <h3>6h → 60m</h3> | <h3>50+</h3> | <h3>30+</h3> | <h3>&lt;30s</h3> | <h3>99.9%</h3> |
-|:---:|:---:|:---:|:---:|:---:|
-| release cycle | GPU servers running AI models | servers deployed with Docker | database failover | database availability |
+<table width="100%">
+  <tr align="center">
+    <th width="22%">🔨 BUILD</th><th width="4%"></th>
+    <th width="22%">📦 DEPLOY</th><th width="4%"></th>
+    <th width="22%">☁️ RUN</th><th width="4%"></th>
+    <th width="22%">📡 MONITOR</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins&theme=dark" height="42" /></td><td>➜</td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform&theme=dark" height="42" /></td><td>➜</td>
+    <td><img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,redhat&theme=dark" height="42" /></td><td>➜</td>
+    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx&theme=dark" height="42" /></td>
+  </tr>
+  <tr align="center">
+    <td>Webhook-triggered<br>Jenkins pipelines</td><td></td>
+    <td>GPU containers,<br>40% faster rollouts</td><td></td>
+    <td>AI vision models<br>on 50+ servers</td><td></td>
+    <td>Metrics that<br>right-size GPUs</td>
+  </tr>
+</table>
 
-</div>
+<table width="100%">
+  <tr align="center">
+    <td width="50%"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" /><br><b>AWS Certified</b><br>Solutions Architect – Associate</td>
+    <td width="50%"><img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="44" /><br><b>Red Hat Certified</b><br>System Administrator (RHCSA)</td>
+  </tr>
+</table>
 
-<br>
-
-<details>
-<summary><b>▶ Open the full pipeline run</b> &nbsp;<sub>(what I actually built)</sub></summary>
-
-<br>
+<h3 align="center">🧾 Pipeline Run</h3>
 
 ```bash
 $ ./pipeline --run ashish
@@ -50,11 +64,7 @@ $ ./pipeline --run ashish
  PIPELINE STATUS: passing 🟢
 ```
 
-</details>
-
-<br>
-
-## 🧰 Toolbox
+<h3 align="center">🧰 Toolbox</h3>
 
 <div align="center">
 
@@ -64,9 +74,7 @@ $ ./pipeline --run ashish
 
 </div>
 
-<br>
-
-## 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
 
