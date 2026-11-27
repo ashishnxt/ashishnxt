@@ -11,17 +11,14 @@
 
 <table width="100%">
   <tr align="center">
-    <td width="20%"><h3>6h → 60m</h3>release cycle</td>
-    <td width="20%"><h3>50+</h3>GPU servers running AI models</td>
-    <td width="20%"><h3>30+</h3>servers deployed with Docker</td>
-    <td width="20%"><h3>&lt;30s</h3>database failover</td>
-    <td width="20%"><h3>99.9%</h3>database availability</td>
+    <td colspan="2"><h3>6h → 60m</h3>release cycle</td>
+    <td colspan="2"><h3>30+</h3>servers deployed with Docker</td>
+    <td colspan="2"><h3>50+</h3>GPU servers running AI models</td>
+    <td colspan="1"><h3>99.9%</h3>database availability</td>
   </tr>
-</table>
-
-<h3 align="center">⚙️ How I Ship</h3>
-
-<table width="100%">
+  <tr align="center">
+    <th colspan="7">⚙️ How I Ship</th>
+  </tr>
   <tr align="center">
     <th width="22%">🔨 BUILD</th><th width="4%"></th>
     <th width="22%">📦 DEPLOY</th><th width="4%"></th>
@@ -40,12 +37,9 @@
     <td>AI vision models<br>on 50+ servers</td><td></td>
     <td>Metrics that<br>right-size GPUs</td>
   </tr>
-</table>
-
-<table width="100%">
   <tr align="center">
-    <td width="50%"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" /><br><b>AWS Certified</b><br>Solutions Architect – Associate</td>
-    <td width="50%"><img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="44" /><br><b>Red Hat Certified</b><br>System Administrator (RHCSA)</td>
+    <td colspan="3"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" /><br><b>AWS Certified</b><br>Solutions Architect – Associate</td>
+    <td colspan="4"><img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="44" /><br><b>Red Hat Certified</b><br>System Administrator (RHCSA)</td>
   </tr>
 </table>
 
