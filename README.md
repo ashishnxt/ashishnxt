@@ -49,8 +49,8 @@
 <!-- Section 3: certifications -->
 <table width="100%">
   <tr align="center">
-    <td width="500"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" /><br><b>AWS Certified</b><br>Solutions Architect – Associate</td>
-    <td width="500"><img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="44" /><br><b>Red Hat Certified</b><br>System Administrator (RHCSA)</td>
+    <td width="500"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" /><br><b>AWS Certified:</b>Solutions Architect – Associate</td>
+    <td width="500"><img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="44" /><br><b>Red Hat Certified:</b>System Administrator (RHCSA)</td>
   </tr>
 </table>
 
