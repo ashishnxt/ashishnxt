@@ -20,8 +20,6 @@
   </tr>
 </table>
 
-<br>
-
 <!-- Section 2: how I ship -->
 <h3 align="center">⚙️ How I Ship</h3>
 
