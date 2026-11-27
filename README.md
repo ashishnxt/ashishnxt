@@ -1,11 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111827,100:0d1117&height=170&section=header&text=ASHISH%20SHARMA&fontColor=e6edf3&fontSize=54&fontAlignY=42&desc=DevOps%20Engineer%20%C2%B7%20Commit%20to%20production%2C%20faster%2C%20safer%2C%20monitored&descColor=58a6ff&descSize=15&descAlignY=70" width="100%" alt="Ashish Sharma - DevOps Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111827,100:0d1117&height=150&section=header&text=ASHISH%20SHARMA&fontColor=e6edf3&fontSize=54&fontAlignY=45&desc=DevOps%20Engineer%20%C2%B7%20CI%2FCD%20%C2%B7%20Cloud%20%C2%B7%20GPU%20Infrastructure&descColor=58a6ff&descSize=15&descAlignY=72" width="100%" alt="Ashish Sharma - DevOps Engineer" />
 
 <div align="center">
+
+### I cut a 6-hour release cycle down to 60 minutes.
+*Then I kept going: GPU fleets, self-healing deployments and 99.9% available databases.*
 
 <a href="mailto:ashishsharma200212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="44" alt="Email" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/ashish-sharma-2oo2"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="44" alt="LinkedIn" /></a>
 
-**2+ yrs** building CI/CD, container platforms and GPU infrastructure at **Vehant Technologies**
+</div>
+
+<br>
+
+<div align="center">
+
+| <h3>6h → 60m</h3> | <h3>50+</h3> | <h3>30+</h3> | <h3>&lt;30s</h3> | <h3>99.9%</h3> |
+|:---:|:---:|:---:|:---:|:---:|
+| release cycle | GPU servers running AI models | servers deployed with Docker | database failover | database availability |
 
 </div>
 
@@ -23,20 +34,23 @@
 
 <br>
 
-## ⚙️ The Pipeline
+## ⚙️ How I Ship
 
 <div align="center">
 
 | 🔨 BUILD | | 📦 DEPLOY | | ☁️ RUN | | 📡 MONITOR |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins&theme=dark" height="46" /> | ➜ | <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform&theme=dark" height="46" /> | ➜ | <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,redhat&theme=dark" height="46" /> | ➜ | <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx&theme=dark" height="46" /> |
-| **6 hrs → 60 min**<br>release cycle | | **30+ servers**<br>40% faster rollouts | | **50+ GPU servers**<br>AI models in prod | | **10+ GPUs**<br>tuned via metrics |
+| Webhook-triggered<br>Jenkins pipelines | | GPU containers,<br>40% faster rollouts | | AI vision models<br>on 50+ servers | | Metrics that<br>right-size GPUs |
 
 </div>
 
 <br>
 
-## 🧾 Pipeline Log
+<details>
+<summary><b>▶ Open the full pipeline run</b> &nbsp;<sub>(what I actually built)</sub></summary>
+
+<br>
 
 ```bash
 $ ./pipeline --run ashish
@@ -50,6 +64,8 @@ $ ./pipeline --run ashish
 
  PIPELINE STATUS: passing 🟢
 ```
+
+</details>
 
 <br>
 
@@ -73,7 +89,5 @@ $ ./pipeline --run ashish
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishnxt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" />
 
 </div>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:111827&height=60&section=footer" width="100%" alt="" />
