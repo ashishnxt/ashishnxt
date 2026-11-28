@@ -81,13 +81,4 @@ $ ./pipeline --run ashish
 
 </div>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ashishnxt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishnxt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:111827&height=60&section=footer" width="100%" alt="" />
